@@ -1,2 +1,4 @@
 # iocs
-mmmmmmmmmmmmalicious
+IOC dump from various research discoveries.
+
+-mmmmmmmmmmmmmmmalicious
