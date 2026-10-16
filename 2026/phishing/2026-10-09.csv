@@ -1,0 +1,285 @@
+Date,IOC_Type,IOC,Description
+2026-10-04,domain,blusonlinim.novoprojeto.boats,astaroth malware distribution via vbs
+2026-10-04,domain,clesondindiz.centralprojeto.boats,astaroth malware distribution via vbs
+2026-10-04,domain,cririntil.novodigital.boats,astaroth malware distribution via vbs
+2026-10-04,domain,crogonder.meuprojeto.boats,astaroth malware distribution via vbs
+2026-10-04,domain,flisar558.onlineprojeto.boats,astaroth malware distribution via vbs
+2026-10-04,domain,flisingor.novodigital.boats,astaroth malware distribution via vbs
+2026-10-04,domain,flobel1.novoonline.boats,astaroth malware distribution via vbs
+2026-10-04,domain,floronminnal.novoonline.boats,astaroth malware distribution via vbs
+2026-10-04,domain,fragonhal666.digitalprojeto.boats,astaroth malware distribution via vbs
+2026-10-04,domain,framinsanvir.centralprojeto.boats,astaroth malware distribution via vbs
+2026-10-04,domain,grurinsangir.novocentral.boats,astaroth malware distribution via vbs
+2026-10-04,domain,planfer.projetocentral.boats,astaroth malware distribution via vbs
+2026-10-04,domain,plisul.digitalprojeto.boats,astaroth malware distribution via vbs
+2026-10-04,domain,progonpunder.novoweb.boats,astaroth malware distribution via vbs
+2026-10-04,domain,scrotentonfel4.novoweb.boats,astaroth malware distribution via vbs
+2026-10-04,domain,sprolenvir5.novoprojeto.boats,astaroth malware distribution via vbs
+2026-10-04,domain,stritangonjal.onlineprojeto.boats,astaroth malware distribution via vbs
+2026-10-04,domain,stroim51.meuprojeto.boats,astaroth malware distribution via vbs
+2026-10-04,domain,strotez.novocentral.boats,astaroth malware distribution via vbs
+2026-10-04,domain,vasom.projetocentral.boats,astaroth malware distribution via vbs
+2026-10-04,email address,docusign@email3581.novostempo.autos,astaroth malware distribution via vbs
+2026-10-04,email address,docusign@email9765.novostempo.autos,astaroth malware distribution via vbs
+2026-10-04,url,https://194.202.178.68.host.secureserver.net/,astaroth malware distribution via vbs
+2026-10-04,url,https://8.180.62.50.host.secureserver.net/,astaroth malware distribution via vbs
+2026-10-04,url,https://fragonpuntil553.projetohub.boats/,astaroth malware distribution via vbs
+2026-10-04,url,https://fragonpuntil553.projetohub.boats/?1/_x,astaroth malware distribution via vbs
+2026-10-04,url,https://stroim51.meuprojeto.boats/,astaroth malware distribution via vbs
+2026-10-05,domain,irs.gov,screenconnect malware distribution via msi
+2026-10-05,domain,msie5.tmp,screenconnect malware distribution via msi
+2026-10-05,domain,msiee46.tmp,screenconnect malware distribution via msi
+2026-10-05,domain,msif2e.tmp,screenconnect malware distribution via msi
+2026-10-05,domain,screenconnect.clientinstalleractions.checkmsifilename,screenconnect malware distribution via msi
+2026-10-05,domain,screenconnect.clientinstalleractions.checkmsimotw,screenconnect malware distribution via msi
+2026-10-05,domain,screenconnect.clientinstalleractions.fixupservicearguments,screenconnect malware distribution via msi
+2026-10-05,domain,screenconnect.installeractions,screenconnect malware distribution via msi
+2026-10-05,domain,xbbx.zt,screenconnect malware distribution via msi
+2026-10-05,email address,adam.bkheet@mokasco.com,darkcloud malware distribution via compressed executable
+2026-10-05,email address,bronwyn@eyeclinic.jp,phishing/malware campaign using headers fencing
+2026-10-05,email address,charmaine@souten-co-ltd.com,phishing/malware campaign using headers fencing
+2026-10-05,email address,contacto@grupocosfarma.com,darkcloud malware distribution via compressed executable
+2026-10-05,email address,e.bautista@mokasco.com,darkcloud malware distribution via compressed executable
+2026-10-05,email address,jamiya@kashima-web-school.jp,phishing/malware campaign using headers fencing
+2026-10-05,email address,jonthan@toushi-stepup.jp,phishing/malware campaign using headers fencing
+2026-10-05,email address,marris@10pound.co.jp,phishing/malware campaign using headers fencing
+2026-10-05,email address,noreply@softbanksender.gsxrx.com,phishing/malware campaign using captcha
+2026-10-05,email address,noreply@techcenter.gsxrx.com,phishing/malware campaign using captcha
+2026-10-05,email address,pascale@bling-white.com,phishing/malware campaign using headers fencing
+2026-10-05,email address,soumo@hinoki-shoten.co.jp,screenconnect malware distribution via msi
+2026-10-05,email address,winnifred@tetete5656.com,phishing/malware campaign using headers fencing
+2026-10-05,hash,0f4c265511ee46b8a9111fbb48d2cd83,darkcloud malware distribution via compressed executable
+2026-10-05,hash,2a5c0c3ee5d5c55cbcd91e704fa86bbf2881c27f,darkcloud malware distribution via compressed executable
+2026-10-05,hash,363fb11f6a1ce85e605def70a4f013f1,screenconnect malware distribution via msi
+2026-10-05,hash,4231f6fcbd8e1632769c7a88defd57bc27fcdc375282d46df8a2c6051f98c9ff,darkcloud malware distribution via compressed executable
+2026-10-05,hash,7f6a021fa53cd8d313691fed79a2f406,darkcloud malware distribution via compressed executable
+2026-10-05,hash,8af54460a6fe81876fe96678bd0f93a5,screenconnect malware distribution via msi
+2026-10-05,hash,8cbae67dcc751499c6c6e2f440d7623e874d91510f6c0d2c878cb67a05c6830b,screenconnect malware distribution via msi
+2026-10-05,hash,9bd523423beec9b9ec1fcfaa377825b6af4e209334656c1b65c011ed5d7466d0,darkcloud malware distribution via compressed executable
+2026-10-05,hash,b478eab8f262ba3304be2614e3d87a54,screenconnect malware distribution via msi
+2026-10-05,hash,c6796367f718cf25d7dcb52eeb4e0377851c2289,screenconnect malware distribution via msi
+2026-10-05,hash,d8f15b3208f5561d8f9713989dbaf150,screenconnect malware distribution via msi
+2026-10-05,ip address,43.160.229.5,phishing/malware campaign using captcha
+2026-10-05,url,https://account-icloud.cquup.com/login,phishing/malware campaign using captcha
+2026-10-05,url,https://aowwo.com/captcha/go/adf7c285e72d6ef36fd556db135b62aa,phishing/malware campaign using captcha
+2026-10-05,url,https://aowwo.com/captcha/verify,phishing/malware campaign using captcha
+2026-10-05,url,https://aowwo.com/ojfC1ymojB.org,phishing/malware campaign using captcha
+2026-10-05,url,https://asoiaksonc.zdytqb.info/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://asoiaksonc.zdytqb.info/stream/live,phishing/malware campaign using headers fencing
+2026-10-05,url,https://asoialsonc.mbudfb.info/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://asoiaosonc.myvsiw.info/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://asoiarsoenc.hssjvhg.info/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://asoiasojnc.fykiqk.info/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://asoiasonc.bdjxnasj.info/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://asoiasonc.bzqztvx.info/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://asoiasonc.xeduvt.info/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://asoiasondc.ibxga.info/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://asoiastonc.nrgzae.info/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://asoiasvonc.dscgbu.info/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://asoiasyonc.bdjxkicm.info/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://asoiiasonc.bdjxokex.info/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://asoionc.bdjxpbub.info/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://blueress.zdmeevv.info/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://bornage.spasdbd.info/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://canrsa.31thbi.info/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://classwise.xuffe.info/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://clinocall.okxybw.info/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://create.athoen.info/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://financialate.fij5fu.info/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://functial.ufyfjo.info/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://i2or.bngta.info/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://kaiabsence.rbxvrf.asia/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://kaiancient.gnhosx.asia/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://kaiannature.isbsvy.info/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://kaiannual.ldgrtd.asia/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://kaiarticle.wgnsam.asia/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://kaiartist.gkrjdn.asia/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://kaibalance.jljkgy.asia/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://kaibanking.abrjvl.asia/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://kaibedroom.ggnamt.asia/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://kaibenefit.ahmyzs.asia/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://kaibrowser.jknewc.asia/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://kaicomment.abdjuf.asia/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://kaiconcern.akugvm.asia/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://kaiconsist.beyulm.asia/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://kaicontact.fqrjyp.asia/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://kaicontrol.tvqhcu.asia/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://kaiculture.pxqrav.asia/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://kaicurrent.oagqya.asia/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://kaidensity.hlpmto.asia/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://kaidinner.huenjd.asia/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://kaidiverse.pdyfrn.asia/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://kaieducate.dlfjgk.asia/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://kaiender.lklebb.info/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://kaienergy.ylvyef.asia/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://kaienormous.yiwypb.asia/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://kaiepisode.rbcjks.asia/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://kaiexchange.vketsq.asia/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://kaiexecute.zsqwna.asia/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://kaiexplore.oapfkf.asia/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://kaiexpress.zcpmje.asia/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://kaifitness.penwfe.asia/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://kaiglobal.bxcvqr.asia/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://kaihealthy.anzlhc.asia/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://kaiimprove.kwlzxr.asia/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://kaiincome.bbdmli.asia/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://kaiinspire.ssdwbw.asia/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://kaiinteger.qievym.asia/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://kaijuxta.mln1z7.info/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://kailateritue.xa6bcl.info/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://kailearning.tcxxbg.asia/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://kailecture.vwqvlq.asia/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://kailiberly.vfddlf.info/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://kaimilitysile.udpxlx.info/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://kaimineral.gsvyul.asia/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://kaimistake.whzhkb.asia/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://kainecklace.xzxctd.asia/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://kainetwork.ezeapf.asia/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://kaioccasion.mwitim.asia/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://kaipioneer.mhnhlu.asia/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://kaiposition.dhmnsw.asia/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://kaipoverty.ilsvzn.asia/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://kaipresent.lpjtke.asia/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://kairemain.knxoii.asia/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://kairespect.sroabi.asia/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://kaisuggest.gkldpi.asia/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://lubricality.hnbrar.info/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://middleie.dizmkvo.info/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://mortite.8ata02.info/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://pneufearar.kiuhgfr.info/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://rhigcrimelet.chktxw.info/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://sacoastlet.intfzz.info/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://sacoistlet.srdpoay.info/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://saconstlet.hmejnq.info/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://sacoostlet.ywvhtrc.info/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://sacorstlet.krxtju.info/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://sacosbtlet.eimrncv.info/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://sacoscztlet.xirjepx.info/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://sacostelet.hjbyxo.info/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://sacoustlet.vtrrdpb.info/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://sacoyrstlet.cdrzkvn.info/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://sacpostlet.xiiuhsr.info/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://sacstlet.mtrnskc.info/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://sactostlet.wtfedco.info/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://saionevelier.s0klrg.info/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://saionexbefold.b1dmbu.info/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://saionharmacupon.u3mn3m.info/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://saionicilookes.i2ee6x.info/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://saionorwardion.ed46h2.info/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://saisnojpplogion.zqlaoja.info/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://saisomcwakyer.y8kk2x.info/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://saisomcwalyer.ddm1tk.info/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://saisomcwayfer.xvf25w.info/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://saisomcwfayer.8g0cia.info/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://saisomcwgayer.m4a167.info/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://saisomcwiayer.331bci.info/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://saisomcwoayer.rt34rk.info/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://saisomcwqayer.pefudgs.info/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://saisomcwsayer.mcuub.info/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://saisomcwuayer.azn8gq.info/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://saisomcwvayer.nbvkwk.info/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://saissodbn202607oint.2pdwpd.info/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://saissodbn202607oint.j6ahnk.info/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://saissodbn202607oint.u0fnd.info/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://sasd2s.y13e97.info/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://sawcostlet.mrstbye.info/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://secbond.krogk6.info/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://seccond.cinm32.info/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://secmond.h35j83.info/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://secolnd.o2vhu6.info/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://second.ughf5v.info/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://secovnd.xvbks7.info/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://secoxnd.kt07ym.info/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://seczond.f26q1r.info/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://sonobot.latermost.fiyws.info/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://sonpros.jtqmbr.info/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://sontich.fufdwef.info/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://splanctimage.wijfawd.info/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://stanni3or.iuiva.info/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://stanni4or.anwqgi.info/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://stanni8or.bdjxxfte.info/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://stinguator.yiwqwyj.info/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://studmeetacle.vkbbwrm.info/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://ternson.pkkik.info/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://ucdeardjp.dckhpbl.info/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://ucdeardjp.dopqoht.info/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://ucdeardjp.osjggyc.info/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://ucdeardjp.srcdoaz.info/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://ucdeardjp.vufjiut.info/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://ucodirectorain.h5mmb0.info/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://ucondetailaire.b4ubju.info/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://ucorsutsure.zawm5o.info/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://ucpicarium.krgv3z.info/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://ucproduct.e5f17w.info/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://ungulage.yvu43c.info/H80AoO,phishing/malware campaign using headers fencing
+2026-10-05,url,https://yet44322.es/50/irx/irx.html,screenconnect malware distribution via msi
+2026-10-05,url,https://yet44322.es/55/irx/irx.html,screenconnect malware distribution via msi
+2026-10-05,url,https://yet44322.es/jj/irx/irx.html,screenconnect malware distribution via msi
+2026-10-05,url,https://yet44322.es/oc/irx/irx.html,screenconnect malware distribution via msi
+2026-10-05,url,https://yet44322.es/v/irx/irx.html,screenconnect malware distribution via msi
+2026-10-05,url,https://yet44322.es/vv/ScreenConnect.ClientSetup.msi,screenconnect malware distribution via msi
+2026-10-05,url,https://yet44322.es/vv/irx/irx.html,screenconnect malware distribution via msi
+2026-10-06,domain,executioncontext.sessionstate.languagemode,action1 malware distribution via powershell
+2026-10-06,domain,zone.identifier,action1 malware distribution via powershell
+2026-10-06,email address,contact1@notificationssocietegeneraleclient.fr,phishing/malware campaign using captcha
+2026-10-06,email address,contact@casinonightcrew.com,action1 malware distribution via powershell
+2026-10-06,email address,contact@cedarhollowhall.com,action1 malware distribution via powershell
+2026-10-06,email address,contact@notificationssocietegeneraleclient.fr,phishing/malware campaign using captcha
+2026-10-06,email address,notification-client.sg1@notificationsclients.socgen.com,phishing/malware campaign using captcha
+2026-10-06,email address,notification-client.sg@notificationsclients.socgen.com,phishing/malware campaign using captcha
+2026-10-06,hash,28cd12b311f24e1afa55db42f053e83079cf674e0228e799f147187f1380c4d3,action1 malware distribution via powershell
+2026-10-06,hash,580fe338ca014f28f2c90dce4799cdd4,action1 malware distribution via powershell
+2026-10-06,hash,5a11d92f2f4af907cc4299ea729cc2ab,action1 malware distribution via powershell
+2026-10-06,hash,8ccc57c6f722458dc7f12165c85188b2,action1 malware distribution via powershell
+2026-10-06,hash,9bc09a061d0d9778d612fcc5e20daf3b6319763a761d4963a43939c37d1c7c58,action1 malware distribution via powershell
+2026-10-06,hash,a2ba5cfd64e8ff78c8d20f3db53d8df4,action1 malware distribution via powershell
+2026-10-06,hash,b4d94e3d8602d16096cab5f33fe3f237147257b1ed8fbeba031f008d48681974,action1 malware distribution via powershell
+2026-10-06,hash,c6e8d2705fddf1dc7fc0761d669bfe20,action1 malware distribution via powershell
+2026-10-06,hash,e749aa70c5ad9c6fdb19d8410b65a83f,action1 malware distribution via powershell
+2026-10-06,hash,e8c6b188581490bd31a461942f84d1f781b04311d6f70f224708d52018ad7969,action1 malware distribution via powershell
+2026-10-06,hash,f3c492965cecf9ea3c7b1d2bc809c483,action1 malware distribution via powershell
+2026-10-06,hash,f99ed07d869ed087270b182208cc24789eaf744d563fe5411e6ea579ba0adfd1,action1 malware distribution via powershell
+2026-10-06,url,https://receipt-one-pearl.vercel.app/action1.msi,action1 malware distribution via powershell
+2026-10-06,url,https://receipt-one-pearl.vercel.app/invoice_payment.pdf,action1 malware distribution via powershell
+2026-10-06,url,https://receipt-one-pearl.vercel.app/paystub-details.zip,action1 malware distribution via powershell
+2026-10-06,url,https://receipt-one-pearl.vercel.app/paystub.zip,action1 malware distribution via powershell
+2026-10-06,url,https://soc.metalionnn.com/index.html,phishing/malware campaign using captcha
+2026-10-06,url,https://soc.metalionnn.com/v2qteK8-zNGVjBjfLa-ZgnaYYv/fr/login.php,phishing/malware campaign using captcha
+2026-10-06,url,https://soc.metalionnn.com/v2qteK8-zNGVjBjfLa-ZgnaYYv/fr/send.php,phishing/malware campaign using captcha
+2026-10-06,url,https://soc.metalionnn.com/v2qteK8-zNGVjBjfLa-ZgnaYYv/index.html,phishing/malware campaign using captcha
+2026-10-06,url,https://soc.metalionnn.com/v2qteK8-zNGVjBjfLa-ZgnaYYv/panel/fetch.php,phishing/malware campaign using captcha
+2026-10-06,url,https://soc.metalionnn.com/v2qteK8-zNGVjBjfLa-ZgnaYYv/panel/update_statu.php,phishing/malware campaign using captcha
+2026-10-07,domain,4d1x6q9n3w7k0f5mzb.live,phishing/malware campaign using headers fencing
+2026-10-07,domain,b7q3n0x5m9r2v6z1ge.live,phishing/malware campaign using headers fencing
+2026-10-07,domain,u6c1x8r4z0m7q3v9na.live,phishing/malware campaign using headers fencing
+2026-10-07,email address,g78gvsmxz6@kjwsan.com,phishing/malware campaign using headers fencing
+2026-10-07,email address,xernj@dtcujxw.com,phishing/malware campaign using headers fencing
+2026-10-07,url,https://4d1x6q9n3w7k0f5mzb.live,phishing/malware campaign using headers fencing
+2026-10-07,url,https://b7q3n0x5m9r2v6z1ge.live,phishing/malware campaign using headers fencing
+2026-10-07,url,https://u6c1x8r4z0m7q3v9na.live,phishing/malware campaign using headers fencing
+2026-10-08,email address,abvestohou2001@portal.importantupdateshub.com,logmein resolve malware distribution via websocket
+2026-10-08,email address,anna@informationnotificationshub.com,logmein resolve malware distribution via websocket
+2026-10-08,email address,chanbiholgua2000@api.noticesandnotifications.com,logmein resolve malware distribution via websocket
+2026-10-08,email address,distgoottahip1997@notifications.noticesandnotifications.com,logmein resolve malware distribution via websocket
+2026-10-08,email address,drive-shares-dm-noreply@google.com,logmein resolve malware distribution via websocket
+2026-10-08,email address,drive-shares-noreply@google.com,logmein resolve malware distribution via websocket
+2026-10-08,email address,garevila1998@portal.importantupdateshub.com,logmein resolve malware distribution via websocket
+2026-10-08,email address,hannatulen@setupnoticeupdate.com,logmein resolve malware distribution via websocket
+2026-10-08,email address,lassvolaca1999@portal.importantupdateshub.com,logmein resolve malware distribution via websocket
+2026-10-08,email address,lumogosra1998@secure.noticesandnotifications.com,logmein resolve malware distribution via websocket
+2026-10-08,email address,pegvosotu2000@portal.importantupdateshub.com,logmein resolve malware distribution via websocket
+2026-10-08,email address,resciodarsgreas1998@notifications.noticesandnotifications.com,logmein resolve malware distribution via websocket
+2026-10-08,email address,rodecapen1997@api.noticesandnotifications.com,logmein resolve malware distribution via websocket
+2026-10-08,email address,tingwegsdiher2000@information.importantupdateshub.com,logmein resolve malware distribution via websocket
+2026-10-08,email address,watcyjofi2002@portal.updatesinformationhub.com,logmein resolve malware distribution via websocket
+2026-10-08,hash,874388b09b9de13ca3f77ec90dbee490862efa9448e600397da059977648c7ac,logmein resolve malware distribution via websocket
+2026-10-08,ip address,45.61.183.113,logmein resolve malware distribution via websocket
+2026-10-08,url,https://drive.google.com/file/d/1KamiRxhP5UBMPfXKfxREm1Olx67Fb5vJ/view?usp=sharing_eil&ts=6ac7dfaa,logmein resolve malware distribution via websocket
+2026-10-08,url,https://drive.google.com/file/d/1RVh8pUAnaV52vfFLoMuAZhVCGTaijfw6/view?usp=sharing&ts=6ac7dd74,logmein resolve malware distribution via websocket
+2026-10-08,url,https://portal.importantnotificationsandupdates.com/web,logmein resolve malware distribution via websocket
+2026-10-08,url,https://storage.googleapis.com/completed-actions-0110/doc.html,logmein resolve malware distribution via websocket
+2026-10-08,url,https://storage.googleapis.com/crisp-coral-6117/keen-grove/glad-beach.html,logmein resolve malware distribution via websocket
+2026-10-08,url,https://storage.googleapis.com/keen-brook-1937/px-jbhmp6/Sign-Key-ID-76815810-1.vbs,logmein resolve malware distribution via websocket
+2026-10-08,url,https://storage.googleapis.com/neat-olive-4029/fresh-stone/live-ridge.html,logmein resolve malware distribution via websocket
+2026-10-08,url,https://storage.googleapis.com/soft-haven-3977/pure-lake/neat-marsh.html,logmein resolve malware distribution via websocket
+2026-10-08,url,https://storage.googleapis.com/wise-storm-4555/rare-grove/pure-crane.html,logmein resolve malware distribution via websocket
