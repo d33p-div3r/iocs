@@ -1,0 +1,260 @@
+date,ioc_type,ioc,description
+2026-10-22,email address,luke@energyelec.net,bec via vendor compromise
+2026-10-22,domain,c83df55d.7346cb752d1e05846c7efc46.workers.dev,phishing redirect domain
+2026-10-22,domain,brilliantcontractfence.space,phishing redirect domain
+2026-10-22,url,https://linkprotect.cudasvc.com/url?a=https%3a%2f%2fthomascollisions.com%2fbalance-pavement%2f&c=E,1,sZ2iscaIuAzwTVD8p53tCoMST2d8ORl5Oz_KgQX-nVuHVsPVPrAfrSmB2g6ao7GLKX53OCgzwDoLLlMAB5uYjGx279XzZ1r8Y9FO5G8ee8k,&typo=1,credential phishing
+2026-10-22,ip address,172.67.145.30,credential phishing
+2026-10-22,ip address,23.27.51.204,credential phishing
+2026-10-22,ip address,45.56.123.31,credential phishing
+2026-10-22,hash,cdb4ee2aea69cc6a83331bbe96dc2caa9a299d21329efb0336fc02a82e1839a8,credential phishing
+2026-10-18,email address,e-tax-noreply@nail.xthsn.com,phishing/malware campaign using social engineering
+2026-10-18,ip address,43.130.234.115,phishing/malware campaign using social engineering
+2026-10-18,url,https://xjmtx.com/auth/ydti/token,phishing/malware campaign using social engineering
+2026-10-19,domain,abonnesclients-renouvellables.digital,phishing/malware campaign using geofencing
+2026-10-19,domain,admissionsassertionscontexts.info,phishing/malware campaign using geofencing
+2026-10-19,domain,admissionseditionsnumbers.info,phishing/malware campaign using geofencing
+2026-10-19,domain,allegationsdatasrequirements.info,phishing/malware campaign using geofencing
+2026-10-19,domain,alterationstitlesenvelopes.info,phishing/malware campaign using geofencing
+2026-10-19,domain,analogiesrankspolicies.info,phishing/malware campaign using geofencing
+2026-10-19,domain,analogiesrankspolicies.org,phishing/malware campaign using geofencing
+2026-10-19,domain,approvalscontributionsopinions.info,phishing/malware campaign using geofencing
+2026-10-19,domain,asreasdistinctionsenvelopes.info,phishing/malware campaign using geofencing
+2026-10-19,domain,assertionstendenciespatterns.info,phishing/malware campaign using geofencing
+2026-10-19,domain,authorizationsvolumescales.info,phishing/malware campaign using geofencing
+2026-10-19,domain,backgroundsdifferencesroles.info,phishing/malware campaign using geofencing
+2026-10-19,domain,backgroundsmodelsstructures.info,phishing/malware campaign using geofencing
+2026-10-19,domain,beliefsbackgroundspublications.info,phishing/malware campaign using geofencing
+2026-10-19,domain,boundemovementsmessages.info,phishing/malware campaign using geofencing
+2026-10-19,domain,capabilitiesadvisoriessigns.info,phishing/malware campaign using geofencing
+2026-10-19,domain,casesacknowledgmentsmodes.info,phishing/malware campaign using geofencing
+2026-10-19,domain,changestagsexplanations.info,phishing/malware campaign using geofencing
+2026-10-19,domain,changestagsexplanations.org,phishing/malware campaign using geofencing
+2026-10-19,domain,cluessketchesacknowledgments.info,phishing/malware campaign using geofencing
+2026-10-19,domain,componentsproportionswrappers.info,phishing/malware campaign using geofencing
+2026-10-19,domain,comprehensionsadvisoriesannouncements.info,phishing/malware campaign using geofencing
+2026-10-19,domain,comprehensionsadvisoriesannouncements.org,phishing/malware campaign using geofencing
+2026-10-19,domain,comprehensionsoutcomesterms.info,phishing/malware campaign using geofencing
+2026-10-19,domain,comprehensionsoutcomestes.info,phishing/malware campaign using geofencing
+2026-10-19,domain,concernsopinionsinstruction.info,phishing/malware campaign using geofencing
+2026-10-19,domain,containersheadingshints.info,phishing/malware campaign using geofencing
+2026-10-19,domain,containersobligationswarehouses.info,phishing/malware campaign using geofencing
+2026-10-19,domain,contextsinstancesalterations.info,phishing/malware campaign using geofencing
+2026-10-19,domain,contrastsalterationstunings.info,phishing/malware campaign using geofencing
+2026-10-19,domain,contrastsparticularsdistinctions.info,phishing/malware campaign using geofencing
+2026-10-19,domain,criteriacontainerscommands.info,phishing/malware campaign using geofencing
+2026-10-19,domain,datasheet.dwg,agenttesla malware distribution via ta0011 command and control
+2026-10-19,domain,declarationsearningsdecrees.info,phishing/malware campaign using geofencing
+2026-10-19,domain,degreesinvitationsstatutes.info,phishing/malware campaign using geofencing
+2026-10-19,domain,descriptionsfractionshearts.info,phishing/malware campaign using geofencing
+2026-10-19,domain,detailspatternsannouncements.info,phishing/malware campaign using geofencing
+2026-10-19,domain,developerbot.info,phishing/malware campaign using geofencing
+2026-10-19,domain,differencestouchesadmissions.info,phishing/malware campaign using geofencing
+2026-10-19,domain,directivesbarriersstudies.info,phishing/malware campaign using geofencing
+2026-10-19,domain,distinctionstagssegments.info,phishing/malware campaign using geofencing
+2026-10-19,domain,distinctionstagssegments.org,phishing/malware campaign using geofencing
+2026-10-19,domain,dutiescomprehensionsquestions.info,phishing/malware campaign using geofencing
+2026-10-19,domain,enhancementsmovementsnumbers.info,phishing/malware campaign using geofencing
+2026-10-19,domain,envelopestatutesprogress.info,phishing/malware campaign using geofencing
+2026-10-19,domain,evolutionsenhancementstitles.info,phishing/malware campaign using geofencing
+2026-10-19,domain,evolutionsenhancementstitles.org,phishing/malware campaign using geofencing
+2026-10-19,domain,evolutionslaunchescapacities.info,phishing/malware campaign using geofencing
+2026-10-19,domain,evolutionstuningsmovements.info,phishing/malware campaign using geofencing
+2026-10-19,domain,explanationspublicationsparts.info,phishing/malware campaign using geofencing
+2026-10-19,domain,explanationspublicationsparts.org,phishing/malware campaign using geofencing
+2026-10-19,domain,explorationsanalogiesoptions.info,phishing/malware campaign using geofencing
+2026-10-19,domain,fashionsauthorizationsmargins.info,phishing/malware campaign using geofencing
+2026-10-19,domain,feelingschallengescommitments.info,phishing/malware campaign using geofencing
+2026-10-19,domain,figuresguidesrequirements.info,phishing/malware campaign using geofencing
+2026-10-19,domain,findingsaccusationsstores.info,phishing/malware campaign using geofencing
+2026-10-19,domain,formulationssuggestionsoaths.info,phishing/malware campaign using geofencing
+2026-10-19,domain,frameworksenergiescomplements.info,phishing/malware campaign using geofencing
+2026-10-19,domain,ftp.hhautoinvestment.co.tz,agenttesla malware distribution via ta0011 command and control
+2026-10-19,domain,groundsreproductionsfunctions.info,phishing/malware campaign using geofencing
+2026-10-19,domain,guidelinescollectionssections.info,phishing/malware campaign using geofencing
+2026-10-19,domain,hurdlessignalstags.info,phishing/malware campaign using geofencing
+2026-10-19,domain,hurdlessignalstags.org,phishing/malware campaign using geofencing
+2026-10-19,domain,husksrepositoriesdimensions.info,phishing/malware campaign using geofencing
+2026-10-19,domain,impactspicturesallegations.info,phishing/malware campaign using geofencing
+2026-10-19,domain,indicationsprovisionsprints.info,phishing/malware campaign using geofencing
+2026-10-19,domain,influencesinitiativesgraphes.info,phishing/malware campaign using geofencing
+2026-10-19,domain,initialesclausesdiscoveries.info,phishing/malware campaign using geofencing
+2026-10-19,domain,initiativesgraphesinfluences.info,phishing/malware campaign using geofencing
+2026-10-19,domain,inquiriestemplatesinfluences.info,phishing/malware campaign using geofencing
+2026-10-19,domain,instructionsresultsevolutions.info,phishing/malware campaign using geofencing
+2026-10-19,domain,instructionstagsrevelations.info,phishing/malware campaign using geofencing
+2026-10-19,domain,intellectstouchesalterations.info,phishing/malware campaign using geofencing
+2026-10-19,domain,interiorsguidelinesbulletins.info,phishing/malware campaign using geofencing
+2026-10-19,domain,issuesstatementsshields.info,phishing/malware campaign using geofencing
+2026-10-19,domain,issuesstatementsshields.org,phishing/malware campaign using geofencing
+2026-10-19,domain,keychain.plist,agenttesla malware distribution via ta0011 command and control
+2026-10-19,domain,keychain.plist,agenttesla malware distribution via ta0011 command and control
+2026-10-19,domain,lawsadditionsvarieties.info,phishing/malware campaign using geofencing
+2026-10-19,domain,lawsadditionsvarieties.org,phishing/malware campaign using geofencing
+2026-10-19,domain,lesinterpretationspackages.info,phishing/malware campaign using geofencing
+2026-10-19,domain,listsprofitsrefinements.info,phishing/malware campaign using geofencing
+2026-10-19,domain,lockersphotographsduties.info,phishing/malware campaign using geofencing
+2026-10-19,domain,maniresdescapabilitiesterms.info,phishing/malware campaign using geofencing
+2026-10-19,domain,metaphorsspiritssorts.info,phishing/malware campaign using geofencing
+2026-10-19,domain,metaphorsspiritssorts.org,phishing/malware campaign using geofencing
+2026-10-19,domain,metricsstructuresstatistics.info,phishing/malware campaign using geofencing
+2026-10-19,domain,modelsobstaclesoptimizations.info,phishing/malware campaign using geofencing
+2026-10-19,domain,moodsevolutionscapacities.info,phishing/malware campaign using geofencing
+2026-10-19,domain,namessubdivisionssummaries.info,phishing/malware campaign using geofencing
+2026-10-19,domain,namesubdivisionsummaries.info,phishing/malware campaign using geofencing
+2026-10-19,domain,outlinesapprovalschanges.info,phishing/malware campaign using geofencing
+2026-10-19,domain,packetsphasessettings.info,phishing/malware campaign using geofencing
+2026-10-19,domain,packetsphasessettings.org,phishing/malware campaign using geofencing
+2026-10-19,domain,paragraphsbackgroundscontributions.info,phishing/malware campaign using geofencing
+2026-10-19,domain,paragraphsbackgroundscontributions.org,phishing/malware campaign using geofencing
+2026-10-19,domain,patternsadmissionssubmissions.info,phishing/malware campaign using geofencing
+2026-10-19,domain,patternsdistinctionsreleases.info,phishing/malware campaign using geofencing
+2026-10-19,domain,perceptionsattitudesalerts.info,phishing/malware campaign using geofencing
+2026-10-19,domain,perceptionsdimensionsorders.info,phishing/malware campaign using geofencing
+2026-10-19,domain,perceptionsupgradesemotions.info,phishing/malware campaign using geofencing
+2026-10-19,domain,perimetersapprovalsbenchmarks.info,phishing/malware campaign using geofencing
+2026-10-19,domain,perspectivesentrieschallenges.info,phishing/malware campaign using geofencing
+2026-10-19,domain,photosadvisoriescircumferences.info,phishing/malware campaign using geofencing
+2026-10-19,domain,powersdegreesstrengths.info,phishing/malware campaign using geofencing
+2026-10-19,domain,powersdegreesstrengths.org,phishing/malware campaign using geofencing
+2026-10-19,domain,progressprotestspercentages.info,phishing/malware campaign using geofencing
+2026-10-19,domain,projectsbenchmarksoffers.info,phishing/malware campaign using geofencing
+2026-10-19,domain,projectscircumferencespeels.info,phishing/malware campaign using geofencing
+2026-10-19,domain,publicationsinnovationsdiagrams.info,phishing/malware campaign using geofencing
+2026-10-19,domain,refinementsmeasurementssegments.info,phishing/malware campaign using geofencing
+2026-10-19,domain,reformesdesintellectsencours.info,phishing/malware campaign using geofencing
+2026-10-19,domain,regulationsyieldsprototypes.info,phishing/malware campaign using geofencing
+2026-10-19,domain,revelationssegmentsadmissions.info,phishing/malware campaign using geofencing
+2026-10-19,domain,sarchitecturesoptimizations.info,phishing/malware campaign using geofencing
+2026-10-19,domain,scalesenhancementsboundaries.info,phishing/malware campaign using geofencing
+2026-10-19,domain,sectionsinsidesalterations.info,phishing/malware campaign using geofencing
+2026-10-19,domain,sectionsinsidesalterations.org,phishing/malware campaign using geofencing
+2026-10-19,domain,segmentsupgradesstatutes.info,phishing/malware campaign using geofencing
+2026-10-19,domain,sentencesbackgroundstunings.info,phishing/malware campaign using geofencing
+2026-10-19,domain,sentimentstitlesunderstandings.info,phishing/malware campaign using geofencing
+2026-10-19,domain,sequencessignspublications.info,phishing/malware campaign using geofencing
+2026-10-19,domain,settingspublicationsspecifies.info,phishing/malware campaign using geofencing
+2026-10-19,domain,signsinstallationsvariations.info,phishing/malware campaign using geofencing
+2026-10-19,domain,signsrepositoriesrevolutions.info,phishing/malware campaign using geofencing
+2026-10-19,domain,smtp.yandex.ru,agenttesla malware distribution via ta0011 command and control
+2026-10-19,domain,soulsvariationsintellects.info,phishing/malware campaign using geofencing
+2026-10-19,domain,sourflour.org,remcos malware distribution via javascript
+2026-10-19,domain,spacesbenchmarkscomprehensions.info,phishing/malware campaign using geofencing
+2026-10-19,domain,spacesbenchmarkscomprehensions.org,phishing/malware campaign using geofencing
+2026-10-19,domain,spansexplanationstouches.info,phishing/malware campaign using geofencing
+2026-10-19,domain,statementsadmissionscaptions.info,phishing/malware campaign using geofencing
+2026-10-19,domain,statisticscommandspermissions.info,phishing/malware campaign using geofencing
+2026-10-19,domain,statisticsmeasurementsbulletins.info,phishing/malware campaign using geofencing
+2026-10-19,domain,strategiesintelligencessouls.info,phishing/malware campaign using geofencing
+2026-10-19,domain,strategiessentimentsselections.info,phishing/malware campaign using geofencing
+2026-10-19,domain,supplementshurdlesdirections.info,phishing/malware campaign using geofencing
+2026-10-19,domain,surfacesproblemscomparisons.info,phishing/malware campaign using geofencing
+2026-10-19,domain,surfacesproblemscomparisons.org,phishing/malware campaign using geofencing
+2026-10-19,domain,surfacesstrengthsarchives.info,phishing/malware campaign using geofencing
+2026-10-19,domain,surfacesstrengthsarchives.org,phishing/malware campaign using geofencing
+2026-10-19,domain,tablesstrengthsdirectives.info,phishing/malware campaign using geofencing
+2026-10-19,domain,termslawsbenefits.info,phishing/malware campaign using geofencing
+2026-10-19,domain,termslawsbenefits.org,phishing/malware campaign using geofencing
+2026-10-19,domain,titlesversionsenvironments.info,phishing/malware campaign using geofencing
+2026-10-19,domain,transformationsreleasesterms.info,phishing/malware campaign using geofencing
+2026-10-19,domain,transformationsreleasesterms.org,phishing/malware campaign using geofencing
+2026-10-19,domain,trendsbeliefssubmissions.info,phishing/malware campaign using geofencing
+2026-10-19,domain,tuningsinstallationsmessages.info,phishing/malware campaign using geofencing
+2026-10-19,domain,tuningsinstallationsmessages.org,phishing/malware campaign using geofencing
+2026-10-19,domain,typeseditionsborders.info,phishing/malware campaign using geofencing
+2026-10-19,domain,typeseditionsborders.org,phishing/malware campaign using geofencing
+2026-10-19,domain,upgradespledgesdeclarations.info,phishing/malware campaign using geofencing
+2026-10-19,domain,varietieseditionsspirits.info,phishing/malware campaign using geofencing
+2026-10-19,domain,varietieseditionsspirits.org,phishing/malware campaign using geofencing
+2026-10-19,domain,versiontransformationselements.info,phishing/malware campaign using geofencing
+2026-10-19,domain,viewscontributionsmodifications.info,phishing/malware campaign using geofencing
+2026-10-19,domain,volumescalesauthorizations.info,phishing/malware campaign using geofencing
+2026-10-19,domain,volumesscalesauthorizations.info,phishing/malware campaign using geofencing
+2026-10-19,domain,waysvolumesproblems.info,phishing/malware campaign using geofencing
+2026-10-19,domain,waysvolumesproblems.org,phishing/malware campaign using geofencing
+2026-10-19,domain,wisdomsrepositoriesannouncements.info,phishing/malware campaign using geofencing
+2026-10-19,domain,wisdomsrepositoriesannouncements.org,phishing/malware campaign using geofencing
+2026-10-19,domain,zone.identifier,agenttesla malware distribution via ta0011 command and control
+2026-10-19,email address,ajiborr@hhautoinvestment.co.tz,agenttesla malware distribution via ta0011 command and control
+2026-10-19,email address,bois.breton@issuesstatementsshields.com,phishing/malware campaign using geofencing
+2026-10-19,email address,ceo@bellaz.shop,agenttesla malware distribution via ta0011 command and control
+2026-10-19,email address,charmaine.slater@alfagomma.co.za,agenttesla malware distribution via ta0011 command and control
+2026-10-19,email address,contact@smogace.com,action1 malware distribution via pdf
+2026-10-19,email address,henkin-shori@thebagelboyclub.com,phishing/malware campaign using headers fencing
+2026-10-19,email address,info@skaypower.com,agenttesla malware distribution via ta0011 command and control
+2026-10-19,email address,info@smogace.com,action1 malware distribution via pdf
+2026-10-19,email address,negozio@depadova.cf,agenttesla malware distribution via ta0011 command and control
+2026-10-19,email address,no-reply@compayname.com,phishing/malware campaign using social engineering
+2026-10-19,email address,nonyebackupcloud@hivimer.com,agenttesla malware distribution via ta0011 command and control
+2026-10-19,email address,notificaciones@hnvcnmhj.vps91acf256vpsovhca.shop,phishing/malware campaign using geofencing
+2026-10-19,email address,protocolo@ytqujtj.vps91acf256vpsovhca.shop,phishing/malware campaign using geofencing
+2026-10-19,email address,registro@cbrch.vps91acf256vpsovhca.shop,phishing/malware campaign using geofencing
+2026-10-19,email address,support@macuser.gr,phishing/malware campaign using geofencing
+2026-10-19,email address,support@mixlar.com.br,phishing/malware campaign using geofencing
+2026-10-19,email address,support@partydelights.co.uk,phishing/malware campaign using geofencing
+2026-10-19,hash,0b88a07f0bd47233ef44b3ae5f102e0e19b28e2a96171102511283a504b1d3fc,action1 malware distribution via pdf
+2026-10-19,hash,2ccd492b39ebba38b6289dfe5902cb10,action1 malware distribution via pdf
+2026-10-19,hash,35218b78c071f3df6e6ac801d98dafaf8ddf0cef3f8b4e80818a2a962326230e,agenttesla malware distribution via ta0011 command and control
+2026-10-19,hash,35946a849a4b37336fccba3adff1e77f,action1 malware distribution via pdf
+2026-10-19,hash,3cc6f8ef3c734ab3b7b62ea58254695b,agenttesla malware distribution via ta0011 command and control
+2026-10-19,hash,4423472b776b68c54e7ef4e870c65bfa6874039cf679e0aacfbe979374ddbb8d,action1 malware distribution via pdf
+2026-10-19,hash,463194455983f25b4266b4a794cc0584,action1 malware distribution via pdf
+2026-10-19,hash,4948453410eb993a13248dfeaf8b505c,agenttesla malware distribution via ta0011 command and control
+2026-10-19,hash,5c97104e2e1c354d2001fa5ce026fe899e91ee88a73516a7f659f6a7f068180d,action1 malware distribution via pdf
+2026-10-19,hash,62fb00bae15d05ca625fb57761526de2,agenttesla malware distribution via ta0011 command and control
+2026-10-19,hash,7309f0e1a295298e51c42eff1da7c670b5878e9e,action1 malware distribution via pdf
+2026-10-19,hash,733aa1ede3c21aced47fe6d1d6297ef61d9062220dc7a69032f64c5eb59ddfc1,agenttesla malware distribution via ta0011 command and control
+2026-10-19,hash,7476fe66045e99a1b3adbfe99448967b,action1 malware distribution via pdf
+2026-10-19,hash,7a024192fa8412e5dded4a28c9cc031870a9a1391d6b04e312d983c14180cd9d,agenttesla malware distribution via ta0011 command and control
+2026-10-19,hash,8b3f47b398e13ddc3c798b9b8bbf9aa8ea90e4d9,action1 malware distribution via pdf
+2026-10-19,hash,92517795ef5a0ad60240fa611bbe4253efe0b590,action1 malware distribution via pdf
+2026-10-19,hash,98ba46995380bf41267d950733bcf6d9b983054c2487391bd76d36820910bf5e,agenttesla malware distribution via ta0011 command and control
+2026-10-19,hash,996672367ea46d6a367ba0329f7d62cb761ba860f2f482651c65d9ef84a10863,action1 malware distribution via pdf
+2026-10-19,hash,9b381f7d444005eb89ee07536caa5aa52a2fb5353fa9c7ef5806c6f31109fad7,action1 malware distribution via pdf
+2026-10-19,hash,b2839a4bb71b4b5646c7479485dd6f2a,action1 malware distribution via pdf
+2026-10-19,hash,b79d4213b8b60813dbaa893ba22887e2,action1 malware distribution via pdf
+2026-10-19,hash,daa3514404ae6c5fa797eea630dd531f,action1 malware distribution via pdf
+2026-10-19,hash,e6b0a6db33835c9f72ddc7c108b65b79,agenttesla malware distribution via ta0011 command and control
+2026-10-19,hash,e9dcae9e953f79e2e2d4ca76d6c1ab664f77052dfefdb1c1020a2f22c0206271,action1 malware distribution via pdf
+2026-10-19,hash,edfc7107cf95569df3f3ac4afec01346eb5ef8394ec3c7791f05d884d4d094b6,agenttesla malware distribution via ta0011 command and control
+2026-10-19,hash,f220a2a1b0b1ac9c86fecc216b2d9b889b88503be98eac922fa0bf0dca7bacf6,action1 malware distribution via pdf
+2026-10-19,hash,f562d05483608cf0e3fbac4619430d7684c688b54b567483fb457a0de4a80a10,action1 malware distribution via pdf
+2026-10-19,hash,f98dd2d3f5229ee83fe284ba58c077b6,action1 malware distribution via pdf
+2026-10-19,ip address,43.164.137.93,phishing/malware campaign using headers fencing
+2026-10-19,url,http://8dis.com/HyhzyioU/,phishing/malware campaign using headers fencing
+2026-10-19,url,http://laozhekou.com/HyhzyioU/,phishing/malware campaign using headers fencing
+2026-10-19,url,http://seosolu.com/HyhzyioU/,phishing/malware campaign using headers fencing
+2026-10-19,url,http://talltransport.com/HyhzyioU/,phishing/malware campaign using headers fencing
+2026-10-19,url,https://214.42.167.72.host.secureserver.net/,phishing/malware campaign using geofencing
+2026-10-19,url,https://62.45.167.72.host.secureserver.net/,phishing/malware campaign using geofencing
+2026-10-19,url,https://8dis.com/api/flow/templates/public?site=minnano_ginko,phishing/malware campaign using headers fencing
+2026-10-19,url,https://8dis.com/api/visitor/gate?site=minnano_ginko&host=8dis.com&pathPrefix=HyhzyioU,phishing/malware campaign using headers fencing
+2026-10-19,url,https://8dis.com/api/visitor/precheck,phishing/malware campaign using headers fencing
+2026-10-19,url,https://8dis.com/socket.io/?EIO=4&transport=websocket,phishing/malware campaign using headers fencing
+2026-10-19,url,https://animegaroom.com/GSFtiAzu/,phishing/malware campaign using headers fencing
+2026-10-19,url,https://camera102.com/GSFtiAzu/,phishing/malware campaign using headers fencing
+2026-10-19,url,https://caseybizsolutions.com/GSFtiAzu/,phishing/malware campaign using headers fencing
+2026-10-19,url,https://ebonypylon.com/pi314,remcos malware distribution via javascript
+2026-10-19,url,https://firebasestorage.googleapis.com/v0/b/sugar-afabf.firebasestorage.app/o/chiPwebby.html?alt=media&token=82207351-d9d6-4d67-a2e5-ec554c730963,phishing/malware campaign using social engineering
+2026-10-19,url,https://firebasestorage.googleapis.com/v0/b/sugar-afabf.firebasestorage.app/o/chiPwebby.html?alt=media&token=various#email_redacted,phishing/malware campaign using social engineering
+2026-10-19,url,https://maprimesante-vitales.abonnesclients-renouvellables.digital/l1a6Jd-nMfhyVgtV-DJT7iP-1zdrF28/,phishing/malware campaign using geofencing
+2026-10-19,url,https://michaelzns.com/GSFtiAzu/,phishing/malware campaign using headers fencing
+2026-10-19,url,https://mylifetome.com/GSFtiAzu/,phishing/malware campaign using headers fencing
+2026-10-19,url,https://polderandlimestone.com/alias/acl-server?nmP1bDwe,remcos malware distribution via javascript
+2026-10-19,url,https://polderandlimestone.com/alias/identity-server.js,remcos malware distribution via javascript
+2026-10-19,url,https://polderandlimestone.com/alias/profile-html.js?18e0d7e26898181a,remcos malware distribution via javascript
+2026-10-19,url,https://secure2026.rchivofacturacloudp.shop/,phishing/malware campaign using geofencing
+2026-10-19,url,https://sourflour.org/meta.google.com,remcos malware distribution via javascript
+2026-10-19,url,https://storage.googleapis.com/afrmsabderm/L.html,phishing/malware campaign using geofencing
+2026-10-19,url,https://storage.googleapis.com/bloodpril-7e7a/unsub,phishing/malware campaign using geofencing
+2026-10-19,url,https://storage.googleapis.com/dashonepro-au/lis,phishing/malware campaign using geofencing
+2026-10-19,url,https://submit-form.com/bMAKJ8atO,phishing/malware campaign using social engineering
+2026-10-19,url,https://urlsnippetsabout.issuesstatementsshields.com/asm/u[Truncated,phishing/malware campaign using geofencing
+2026-10-19,url,https://user-iota-lake.vercel.app/adobe_updaters.zip,action1 malware distribution via pdf
+2026-10-19,url,https://user-iota-lake.vercel.app/wafaction1.msi,action1 malware distribution via pdf
+2026-10-19,url,https://www.google.com/search?q=91porn[Deceptive,phishing/malware campaign using headers fencing
+2026-10-21,email address,marta105874@biaoliveira.belacris.store,phishing/malware campaign using autoit
+2026-10-21,email address,nuria596627@biaoliveira.belacris.store,phishing/malware campaign using autoit
+2026-10-21,email address,rosa986305@evalima.belacris.store,phishing/malware campaign using autoit
+2026-10-21,email address,sara958568@evalima.belacris.store,phishing/malware campaign using autoit
+2026-10-21,url,https://148.76.148.132.host.secureserver.net/,phishing/malware campaign using autoit
+2026-10-21,url,https://twi-pdf.lat/,phishing/malware campaign using autoit
